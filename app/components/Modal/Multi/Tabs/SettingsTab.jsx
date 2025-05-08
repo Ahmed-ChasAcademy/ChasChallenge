@@ -54,7 +54,7 @@ const SettingsTab = () => {
           onChange={handleChange}
         >
           <option value="english">English</option>
-          <option value="spanish">Spanish</option>
+          <option value="Swedish">Swedish</option>
           <option value="french">French</option>
           <option value="german">German</option>
         </select>
